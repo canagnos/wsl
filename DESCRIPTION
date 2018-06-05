@@ -1,0 +1,13 @@
+Package: wsl
+Type: Package
+Title: Weakly Supervised Learning
+Version: 0.1.0
+Author: Christoforos Anagnostopoulos
+Maintainer: Christoforos Anagnostopoulos <canagnos@imperial.ac.uk>
+Description: `wsl` allows for the incorporation of "weak labels" in supervised learning pipelines. The algorithm used takes advantage of an analogy between weighted learning and weak learning, as described in 
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Suggests:
+    testthat
+RoxygenNote: 5.0.1
